@@ -7,7 +7,7 @@
 
 
 # Hello!  I'm Felipe
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### 
 Hello!  My name is Felipe, and I am a technology enthusiast and a fervent student of Computer Science. For as long as I can remember, I have always been fascinated by the workings of computers and the vast world of programming.
