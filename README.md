@@ -3,8 +3,7 @@
 - 🌱 I am currently learning Python
 - 💞️ I seek to collaborate in mutual growth
 - 📫 How to contact me just choose a network
-- ⚡ Curiosity: Gamer, Anime, Student, passionate about Science
-
+- ⚡ Curiosity: Gamer, Anime, Student
 
 # Hello!  I'm Felipe
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
