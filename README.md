@@ -17,7 +17,7 @@ Hello!  My name is Felipe, and I am a technology enthusiast and a fervent studen
 
  As a Computer Science student, I am constantly looking for new knowledge and challenges.  I assiduously study fundamental concepts, such as data structures and algorithms, but I also venture into more specialized areas, such as artificial intelligence and information security.
 
- However, what captivates me most are programming languages.  I have a true love for the art of coding, and I am determined to become an expert in multiple languages.  Currently, I'm focused on improving my skills in Python, TypeScript and Golang.  Each of these languages has its own charm and unique applications, and I look forward to exploring their potential to the fullest.
+ However, what captivates me most are programming languages.  I have a true love for the art of coding, and I am determined to become an expert in multiple languages.  Currently, I'm focused on improving my skills in Python, Javascript and Golang.  Each of these languages has its own charm and unique applications, and I look forward to exploring their potential to the fullest.
 
 
 ## Connect with me
@@ -25,7 +25,7 @@ Hello!  My name is Felipe, and I am a technology enthusiast and a fervent studen
 
 
 ## Programming languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 	![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 
 
