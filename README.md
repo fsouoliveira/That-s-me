@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @Felipe
 - 👀 I'm interested in Programming
-- 🌱 I am currently learning Python
+- 🌱 I am currently learning Javascript 
 - 💞️ I seek to collaborate in mutual growth
 - 📫 How to contact me just choose a network
 - ⚡ Curiosity: Gamer, Anime, Student
