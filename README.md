@@ -9,16 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ### 
-Hello!  My name is Felipe, and I am a technology enthusiast and a fervent student of Computer Science. For as long as I can remember, I have always been fascinated by the workings of computers and the vast world of programming.
-
- Currently, I am committed to diving head first into all aspects of Computer Science.  Every class, every project, and every line of code I write is a source of excitement for me.  I am constantly amazed at how technology can transform our lives and solve complex problems.
-
- My learning journey:
-
- As a Computer Science student, I am constantly looking for new knowledge and challenges.  I assiduously study fundamental concepts, such as data structures and algorithms, but I also venture into more specialized areas, such as artificial intelligence and information security.
-
- However, what captivates me most are programming languages.  I have a true love for the art of coding, and I am determined to become an expert in multiple languages.  Currently, I'm focused on improving my skills in Python, Javascript and Golang.  Each of these languages has its own charm and unique applications, and I look forward to exploring their potential to the fullest.
-
+Full-Stack Developer with experience in JavaScript, Python, Node.js and React, studying Computer Science.  Passionate about software development and always looking for new challenges.  Focused on agile methodologies and best practices, I value effective communication and innovation in collaborative environments
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-souza-oliveira-a1bb28195/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zion4728) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:f.sou.oli99@gmail.com)
